@@ -1,3 +1,6 @@
+This is a project I worked on with another person. This is a project about demonstrating socket programming, which was making use of a server for a client to 
+communicate with. The server would keep data stored about key value pairs, where a client could add two strings with one being a value and another being a key to search for the value, to search for them, or delete. 
+
 # Key-Value Storage Service
 By Riyam Zaman (rnz8) and Vincent Mandola (vam91)
 
