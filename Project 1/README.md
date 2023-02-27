@@ -1,3 +1,8 @@
+This is a project I worked with another person on. This is a plagiarism detector that, given an algorithm on how to compute how similar two files were, and
+given a file path to a directory, would compare each file in the directory to one another and give a list of how similar each file was to each other. If there
+was a subdirectory within the given directory, the program would take all the files in there and compute them as well, and will keep going until all files within
+every subdirectory was computed. This project also makes the use of threading to keep track of what files and directories still need to be looked at.
+
 # Plagiarism Detector
 
 By Riyam Zaman (rnz8) and Vincent Mandola (vam91)
